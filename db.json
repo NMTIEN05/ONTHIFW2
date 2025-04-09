@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "name": "Nguyễn Mạnh Tiến 2",
+      "price": 1,
+      "imageUrl": "https://picsum.photos/id/4/200/300",
+      "description": "fcg",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Mạnh Tiến",
+      "price": 456,
+      "imageUrl": "https://picsum.photos/id/4/200/300",
+      "description": "ghj",
+      "id": 3
+    }
+  ],
+  "categories": [],
+  "users": [
+    {
+      "email": "tiennmph50685@gmail.com",
+      "password": "$2a$10$GuY7f6FMuqi7cnTP2AHZUubpHvtV5rZOBFnrQTb0S1/iFI24rsEwq",
+      "id": 1
+    },
+    {
+      "email": "hanhnguyen@gmail.com",
+      "password": "$2a$10$i26qGWP8am7uys1fWSuRju4iBLJJe38utmxZWamp5iVgSQvVwPfCK",
+      "id": 2
+    },
+    {
+      "email": "tienaaaaaa@gmail.com",
+      "password": "$2a$10$9Ce78gKUhWRDit3cjrEKLOSYIAw126WkatenGVlnrg6VQ9rOpETlW",
+      "id": 3
+    },
+    {
+      "email": "phamthid@example.com",
+      "password": "$2a$10$.cZ4FGGronHRjs181p78q.lm.6Ya9GfNyX7GfOmRxghG/Fd9rvU7e",
+      "id": 4
+    },
+    {
+      "email": "tiennmph506857@gmail.com",
+      "password": "$2a$10$x6vBrC0QuGrOr3fc7Ksr2.XRVhobQ8MCK9sJSX7TEkydbg4t.mf2K",
+      "id": 5
+    },
+    {
+      "email": "tienaaaaaaa@gmail.com",
+      "password": "$2a$10$fR/vWIlEcb4bsrQehO3dT.TeW5VO5W.JDALCZMpZtUppqvpY5eJZO",
+      "id": 6
+    }
+  ]
+}
