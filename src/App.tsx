@@ -6,7 +6,11 @@ import Add from "./APP/add";
 import List from "./APP/list";
 import Edit from "./APP/Edit";
 import Register from "./APP/register";
-import Login from "./APP/login";
+// import Login from "./APP/login";
+import Listgiaodien from "./APP/giaodienlist";
+import Login from "./APP/Login";
+import Addgiaodien from "./APP/giaodienadd";
+import Registergiaodien from "./APP/giaodienregister";
 
 
 
@@ -15,6 +19,18 @@ function App() {
     {
       path: "/",
       element: <List />,
+    },
+    {
+      path: "/listgiadien",
+      element: <Listgiaodien />,
+    },
+    {
+      path: "/addgiaodien",
+      element: <Addgiaodien />,
+    },
+    {
+      path: "/registergiaodien",
+      element: <Registergiaodien />,
     },
     {
       path: "/add",
